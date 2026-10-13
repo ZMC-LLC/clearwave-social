@@ -5,7 +5,7 @@ export const siteConfig = {
   description:
     "Social media marketing built for small businesses and personal brands — content, strategy, and community that turn scrollers into customers.",
   url: "https://clearwavesocial.com",
-  email: "zacmitchell@zacmitchellconsulting.com",
+  email: "zmitchell@clearwavesocial.com",
   phone: "(817) 760-3247",
   phoneTel: "+18177603247",
   parentUrl: "https://zacmitchellconsulting.com",
